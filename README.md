@@ -283,7 +283,6 @@ footer{
 
 <nav>
     <div class="logo">Nivedhitha</div>
-
     <ul>
         <li><a href="#about">About</a></li>
         <li><a href="#services">Services</a></li>
@@ -402,7 +401,7 @@ I specialize in creating responsive websites and providing high-quality data man
 
     <!-- WEB DESIGN PROJECTS -->
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Cafe Website</h3>
         <div class="tech">Technology: HTML, CSS, JavaScript</div>
         <p>
@@ -411,7 +410,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Restaurant Landing Page</h3>
         <div class="tech">Technology: HTML, CSS</div>
         <p>
@@ -420,7 +419,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Personal Portfolio Website</h3>
         <div class="tech">Technology: HTML, CSS, JavaScript</div>
         <p>
@@ -429,7 +428,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Student Registration Form</h3>
         <div class="tech">Technology: HTML, CSS</div>
         <p>
@@ -438,7 +437,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Event Registration Website</h3>
         <div class="tech">Technology: HTML, CSS, JavaScript</div>
         <p>
@@ -449,7 +448,7 @@ I specialize in creating responsive websites and providing high-quality data man
 
     <!-- DATA ENTRY PROJECTS -->
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Student Record Management Sheet</h3>
         <div class="tech">Tools: Microsoft Excel</div>
         <p>
@@ -458,7 +457,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+ <div class="project-card">
         <h3>Employee Attendance Tracker</h3>
         <div class="tech">Tools: Excel, Google Sheets</div>
         <p>
@@ -467,7 +466,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Expense Tracker</h3>
         <div class="tech">Tools: Microsoft Excel</div>
         <p>
@@ -476,7 +475,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+ <div class="project-card">
         <h3>Sales Dashboard</h3>
         <div class="tech">Tools: Excel</div>
         <p>
@@ -485,7 +484,7 @@ I specialize in creating responsive websites and providing high-quality data man
         </p>
     </div>
 
-    <div class="project-card">
+<div class="project-card">
         <h3>Inventory Management Spreadsheet</h3>
         <div class="tech">Tools: Excel, Google Sheets</div>
         <p>
